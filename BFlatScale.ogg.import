@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/BFlatScale.ogg-7a299b262f2b9e4ba1f7b7e1c2c1c379.oggstr"
+
+[deps]
+
+source_file="res://BFlatScale.ogg"
+dest_files=[ "res://.import/BFlatScale.ogg-7a299b262f2b9e4ba1f7b7e1c2c1c379.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
